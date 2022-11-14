@@ -1,0 +1,6 @@
+id=replace-zram-with-swapfile
+name=Replace zRAM with Swapfile
+version=one
+versionCode=1
+author=@84436
+description=Disable zRAM on boot and use a swapfile instead
